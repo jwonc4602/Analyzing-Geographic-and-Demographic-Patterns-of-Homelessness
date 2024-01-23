@@ -3,7 +3,7 @@ title: "Analyzing Geographic and Demographic Patterns of Homelessness"
 subtitle: "Exploring Spatial Variations in Shelter Demand and Gender/Age-Based Disparities"
 author: 
   - Jiwon Choi
-thanks: "Code and data are available at [github.com/putrepohere](https://github.com/jmacattack27/ModellingHomelessPopulations)."
+thanks: "Code and data are available at: [https://github.com/jwonc4602/Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness](https://github.com/jwonc4602/Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness)."
 date: today
 date-format: long
 abstract: "This study examines the challenges faced by the homeless despite the presence of shelters, triggered by a recent incident of a homeless person succumbing to severe cold. It investigates geographic and demographic trends in homelessness, analyzing variations in shelter demand based on location and gender/age disparities. Utilizing data from the Shelter Support and Housing Administration division's Shelter Management Information System database, the research forecasts demand and provides critical insights: (1) geographic analysis identifies areas with the highest demand for shelter services, (2) demographic analysis uncovers gender and age-based disparities. These insights empower policymakers, shelter providers, and advocacy groups to allocate resources efficiently and proactively address homelessness challenges, ultimately preventing future hardships and tragedies."
@@ -19,6 +19,27 @@ bibliography: references.bib
 
 library(tidyverse)
 library(palmerpenguins)
+#| message: false
+#| echo: false
+
+#### Workspace set-up ####
+
+
+#read in cleaned data #
+cleaned_voter_statistics <- read.csv(here::here("inputs/data/cleaned_voter_statistics.csv"))
+show_col_types = FALSE
+
+#read in cleaned data #
+summarized_voter_statistics <- read.csv(here::here("inputs/data/summarized_voter_statistics.csv"))
+show_col_types = FALSE
+
+#read in cleaned data #
+summarized_voter_turnout <- read.csv(here::here("inputs/data/summarized_voter_turnout.csv"))
+show_col_types = FALSE
+
+#read in cleaned data #
+finalized_voter_statistics <- read.csv(here::here("inputs/data/finalized_voter_statistics.csv"))
+show_col_types = FALSE
 ```
 
 # Introduction

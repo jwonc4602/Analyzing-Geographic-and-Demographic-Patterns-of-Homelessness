@@ -1,0 +1,2840 @@
+occupancy_date,sector,capacity_type,location_city,occupancy_rate
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,North York,100
+2024-01-01,Families,Room Based Capacity,North York,100
+2024-01-01,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-01,Men,Room Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,82.6086956521739
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Room Based Capacity,North York,100
+2024-01-01,Mixed Adult,Room Based Capacity,North York,100
+2024-01-01,Mixed Adult,Room Based Capacity,North York,100
+2024-01-01,Mixed Adult,Room Based Capacity,North York,100
+2024-01-01,Men,Bed Based Capacity,Toronto,77.77777777777779
+2024-01-01,Women,Room Based Capacity,Scarborough,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,89.70588235294117
+2024-01-01,Mixed Adult,Room Based Capacity,Vaughan,95.65217391304348
+2024-01-01,Men,Bed Based Capacity,Toronto,95.83333333333334
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,43.75
+2024-01-01,Mixed Adult,Room Based Capacity,NA,100
+2024-01-01,Mixed Adult,Room Based Capacity,NA,90
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Room Based Capacity,Toronto,98.4375
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,50
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,92.85714285714286
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,98.71794871794873
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-01,Mixed Adult,Room Based Capacity,Toronto,98.79518072289156
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,89.13043478260869
+2024-01-01,Youth,Bed Based Capacity,Toronto,98
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Room Based Capacity,Scarborough,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,63.63636363636363
+2024-01-01,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-01,Women,Bed Based Capacity,Toronto,92
+2024-01-01,Women,Bed Based Capacity,Toronto,98.07692307692307
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Room Based Capacity,North York,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,92
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,80
+2024-01-01,Men,Room Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,99.08256880733946
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-01,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,North York,100
+2024-01-01,Women,Bed Based Capacity,North York,100
+2024-01-01,Men,Bed Based Capacity,North York,100
+2024-01-01,Women,Bed Based Capacity,North York,100
+2024-01-01,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-01,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-01,Youth,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-01,Youth,Bed Based Capacity,Toronto,80
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Room Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Room Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Room Based Capacity,North York,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Room Based Capacity,Scarborough,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Room Based Capacity,North York,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Men,Bed Based Capacity,Toronto,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,NA,100
+2024-01-01,Families,Room Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Women,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-01,Youth,Bed Based Capacity,Toronto,100
+2024-01-01,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-01,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-01,Youth,Bed Based Capacity,Scarborough,100
+2024-01-01,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,North York,100
+2024-01-02,Families,Room Based Capacity,North York,99.37888198757764
+2024-01-02,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-02,Men,Room Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,98.4375
+2024-01-02,Mixed Adult,Room Based Capacity,North York,100
+2024-01-02,Mixed Adult,Room Based Capacity,North York,100
+2024-01-02,Mixed Adult,Room Based Capacity,North York,100
+2024-01-02,Mixed Adult,Room Based Capacity,North York,100
+2024-01-02,Men,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-02,Women,Room Based Capacity,Scarborough,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,89.70588235294117
+2024-01-02,Mixed Adult,Room Based Capacity,Vaughan,95.65217391304348
+2024-01-02,Men,Bed Based Capacity,Toronto,93.75
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-02,Mixed Adult,Room Based Capacity,NA,100
+2024-01-02,Mixed Adult,Room Based Capacity,NA,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,86.11111111111111
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,98.11320754716981
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,91.42857142857143
+2024-01-02,Mixed Adult,Room Based Capacity,Toronto,96.92307692307692
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,50
+2024-01-02,Youth,Bed Based Capacity,Toronto,98.93617021276596
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,92.85714285714286
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-02,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,95.65217391304348
+2024-01-02,Youth,Bed Based Capacity,Toronto,98
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Room Based Capacity,Scarborough,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,63.63636363636363
+2024-01-02,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-02,Women,Bed Based Capacity,Toronto,92
+2024-01-02,Women,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Room Based Capacity,North York,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,94.9579831932773
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,92
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,80
+2024-01-02,Men,Room Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,98.1981981981982
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-02,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,North York,100
+2024-01-02,Women,Bed Based Capacity,North York,100
+2024-01-02,Men,Bed Based Capacity,North York,100
+2024-01-02,Women,Bed Based Capacity,North York,100
+2024-01-02,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-02,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-02,Youth,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-02,Youth,Bed Based Capacity,Toronto,80
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Room Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Room Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Room Based Capacity,North York,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Room Based Capacity,Scarborough,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Room Based Capacity,North York,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Men,Bed Based Capacity,Toronto,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,NA,100
+2024-01-02,Families,Room Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,100
+2024-01-02,Women,Bed Based Capacity,Toronto,100
+2024-01-02,Youth,Bed Based Capacity,Toronto,96.29629629629629
+2024-01-02,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-02,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-02,Youth,Bed Based Capacity,Scarborough,100
+2024-01-02,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-03,Families,Room Based Capacity,Toronto,99.33333333333333
+2024-01-03,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,North York,100
+2024-01-03,Families,Room Based Capacity,North York,100
+2024-01-03,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-03,Men,Room Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Room Based Capacity,North York,100
+2024-01-03,Mixed Adult,Room Based Capacity,North York,100
+2024-01-03,Mixed Adult,Room Based Capacity,North York,100
+2024-01-03,Mixed Adult,Room Based Capacity,North York,98.66666666666667
+2024-01-03,Men,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-03,Women,Room Based Capacity,Scarborough,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,86.76470588235294
+2024-01-03,Mixed Adult,Room Based Capacity,Vaughan,94.20289855072464
+2024-01-03,Men,Bed Based Capacity,Toronto,95.83333333333334
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,97.91666666666666
+2024-01-03,Mixed Adult,Room Based Capacity,NA,100
+2024-01-03,Mixed Adult,Room Based Capacity,NA,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,98.50746268656717
+2024-01-03,Men,Bed Based Capacity,Toronto,99.15966386554622
+2024-01-03,Men,Bed Based Capacity,Toronto,86.11111111111111
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-03,Mixed Adult,Room Based Capacity,Toronto,96.92307692307692
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,50
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,96.66666666666667
+2024-01-03,Youth,Bed Based Capacity,Toronto,92.85714285714286
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-03,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,91.30434782608695
+2024-01-03,Youth,Bed Based Capacity,Toronto,98
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Room Based Capacity,Scarborough,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,63.63636363636363
+2024-01-03,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-03,Women,Bed Based Capacity,Toronto,92
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,98.57142857142858
+2024-01-03,Mixed Adult,Room Based Capacity,North York,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,87.14285714285714
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,98.33333333333333
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,99.15254237288136
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,92
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,80
+2024-01-03,Men,Room Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,98.1981981981982
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-03,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,North York,100
+2024-01-03,Women,Bed Based Capacity,North York,100
+2024-01-03,Men,Bed Based Capacity,North York,100
+2024-01-03,Women,Bed Based Capacity,North York,75
+2024-01-03,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-03,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,98.78048780487805
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-03,Youth,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-03,Youth,Bed Based Capacity,Toronto,80
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Room Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Room Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-03,Women,Bed Based Capacity,Toronto,98.83720930232558
+2024-01-03,Women,Room Based Capacity,North York,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Room Based Capacity,Scarborough,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Room Based Capacity,North York,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,100
+2024-01-03,Men,Bed Based Capacity,Toronto,98
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,NA,100
+2024-01-03,Families,Room Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Women,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Toronto,100
+2024-01-03,Youth,Bed Based Capacity,Etobicoke,96.96969696969697
+2024-01-03,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-03,Youth,Bed Based Capacity,Scarborough,100
+2024-01-03,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,North York,100
+2024-01-04,Families,Room Based Capacity,North York,100
+2024-01-04,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-04,Men,Room Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Room Based Capacity,North York,100
+2024-01-04,Mixed Adult,Room Based Capacity,North York,100
+2024-01-04,Mixed Adult,Room Based Capacity,North York,100
+2024-01-04,Mixed Adult,Room Based Capacity,North York,100
+2024-01-04,Men,Bed Based Capacity,Toronto,72.22222222222221
+2024-01-04,Women,Room Based Capacity,Scarborough,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-04,Mixed Adult,Room Based Capacity,Vaughan,94.20289855072464
+2024-01-04,Men,Bed Based Capacity,Toronto,95.83333333333334
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Room Based Capacity,NA,100
+2024-01-04,Mixed Adult,Room Based Capacity,NA,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,98.50746268656717
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,80.55555555555556
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,99.05660377358491
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,97.14285714285714
+2024-01-04,Mixed Adult,Room Based Capacity,Toronto,96.92307692307692
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,50
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,92.85714285714286
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,99.15966386554622
+2024-01-04,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-04,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,98
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Room Based Capacity,Scarborough,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,63.63636363636363
+2024-01-04,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-04,Women,Bed Based Capacity,Toronto,92
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,98.57142857142858
+2024-01-04,Mixed Adult,Room Based Capacity,North York,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,85.71428571428571
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,97.41379310344827
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,96
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,80
+2024-01-04,Men,Room Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-04,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,North York,100
+2024-01-04,Women,Bed Based Capacity,North York,100
+2024-01-04,Men,Bed Based Capacity,North York,100
+2024-01-04,Women,Bed Based Capacity,North York,100
+2024-01-04,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-04,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-04,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-04,Youth,Bed Based Capacity,Toronto,80
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Room Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Room Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,98.7012987012987
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Room Based Capacity,North York,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Room Based Capacity,Scarborough,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Room Based Capacity,North York,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Men,Bed Based Capacity,Toronto,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Mixed Adult,Bed Based Capacity,Toronto,96.875
+2024-01-04,Women,Bed Based Capacity,NA,100
+2024-01-04,Families,Room Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Women,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Toronto,100
+2024-01-04,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-04,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-04,Youth,Bed Based Capacity,Scarborough,100
+2024-01-04,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,North York,100
+2024-01-05,Families,Room Based Capacity,North York,100
+2024-01-05,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-05,Men,Room Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,95.65217391304348
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Room Based Capacity,North York,100
+2024-01-05,Mixed Adult,Room Based Capacity,North York,98.78048780487805
+2024-01-05,Mixed Adult,Room Based Capacity,North York,100
+2024-01-05,Mixed Adult,Room Based Capacity,North York,98.66666666666667
+2024-01-05,Men,Bed Based Capacity,Toronto,72.22222222222221
+2024-01-05,Women,Room Based Capacity,Scarborough,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,92.64705882352942
+2024-01-05,Mixed Adult,Room Based Capacity,Vaughan,94.20289855072464
+2024-01-05,Men,Bed Based Capacity,Toronto,95.83333333333334
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-05,Mixed Adult,Room Based Capacity,NA,100
+2024-01-05,Mixed Adult,Room Based Capacity,NA,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-05,Mixed Adult,Room Based Capacity,Toronto,95.38461538461539
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,50
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,96.66666666666667
+2024-01-05,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,99.15966386554622
+2024-01-05,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-05,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,96.7741935483871
+2024-01-05,Youth,Bed Based Capacity,Toronto,98
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Room Based Capacity,Scarborough,97.82608695652173
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,63.63636363636363
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,92
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Room Based Capacity,North York,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,98.27586206896551
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,99.13793103448276
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-05,Men,Bed Based Capacity,Toronto,92
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,80
+2024-01-05,Men,Room Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,98.64864864864865
+2024-01-05,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-05,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,North York,100
+2024-01-05,Women,Bed Based Capacity,North York,100
+2024-01-05,Men,Bed Based Capacity,North York,100
+2024-01-05,Women,Bed Based Capacity,North York,100
+2024-01-05,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-05,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-05,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-05,Youth,Bed Based Capacity,Toronto,80
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,98.61111111111111
+2024-01-05,Men,Room Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Room Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Room Based Capacity,North York,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Room Based Capacity,Scarborough,99.23664122137404
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Room Based Capacity,North York,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Men,Bed Based Capacity,Toronto,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,NA,100
+2024-01-05,Families,Room Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Women,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Toronto,100
+2024-01-05,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-05,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-05,Youth,Bed Based Capacity,Scarborough,100
+2024-01-05,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Families,Room Based Capacity,North York,100
+2024-01-06,Families,Room Based Capacity,North York,100
+2024-01-06,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-06,Men,Room Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,95
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Room Based Capacity,North York,100
+2024-01-06,Mixed Adult,Room Based Capacity,North York,98.78048780487805
+2024-01-06,Mixed Adult,Room Based Capacity,North York,100
+2024-01-06,Mixed Adult,Room Based Capacity,North York,100
+2024-01-06,Men,Bed Based Capacity,Toronto,66.66666666666666
+2024-01-06,Women,Room Based Capacity,Scarborough,100
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Families,Room Based Capacity,Toronto,97.87234042553192
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,92.64705882352942
+2024-01-06,Mixed Adult,Room Based Capacity,Vaughan,94.20289855072464
+2024-01-06,Men,Bed Based Capacity,Toronto,95.83333333333334
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,85.41666666666666
+2024-01-06,Mixed Adult,Room Based Capacity,NA,100
+2024-01-06,Mixed Adult,Room Based Capacity,NA,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,91.42857142857143
+2024-01-06,Mixed Adult,Room Based Capacity,Toronto,96.92307692307692
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-06,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,88
+2024-01-06,Youth,Bed Based Capacity,Toronto,98
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Room Based Capacity,Scarborough,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,63.63636363636363
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,92
+2024-01-06,Women,Bed Based Capacity,Toronto,98.07692307692307
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Room Based Capacity,North York,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,74.13793103448276
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-06,Men,Bed Based Capacity,Toronto,92
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,80
+2024-01-06,Men,Room Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-06,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,North York,100
+2024-01-06,Women,Bed Based Capacity,North York,100
+2024-01-06,Men,Bed Based Capacity,North York,83.33333333333334
+2024-01-06,Women,Bed Based Capacity,North York,100
+2024-01-06,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-06,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-06,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-06,Youth,Bed Based Capacity,Toronto,80
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Room Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Room Based Capacity,Toronto,100
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Room Based Capacity,North York,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Room Based Capacity,Scarborough,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Room Based Capacity,North York,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Men,Bed Based Capacity,Toronto,100
+2024-01-06,Families,Room Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,NA,100
+2024-01-06,Families,Room Based Capacity,Toronto,96.29629629629629
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Women,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Toronto,100
+2024-01-06,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-06,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-06,Youth,Bed Based Capacity,Scarborough,100
+2024-01-06,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,North York,100
+2024-01-07,Families,Room Based Capacity,North York,100
+2024-01-07,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-07,Men,Room Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Room Based Capacity,North York,100
+2024-01-07,Mixed Adult,Room Based Capacity,North York,98.78048780487805
+2024-01-07,Mixed Adult,Room Based Capacity,North York,100
+2024-01-07,Mixed Adult,Room Based Capacity,North York,100
+2024-01-07,Men,Bed Based Capacity,Toronto,66.66666666666666
+2024-01-07,Women,Room Based Capacity,Scarborough,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,94.73684210526315
+2024-01-07,Men,Bed Based Capacity,Toronto,92.64705882352942
+2024-01-07,Mixed Adult,Room Based Capacity,Vaughan,92.7536231884058
+2024-01-07,Men,Bed Based Capacity,Toronto,95.83333333333334
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,81.25
+2024-01-07,Mixed Adult,Room Based Capacity,NA,100
+2024-01-07,Mixed Adult,Room Based Capacity,NA,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-07,Mixed Adult,Room Based Capacity,Toronto,98.46153846153847
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-07,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,98
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Room Based Capacity,Scarborough,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,63.63636363636363
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,92
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Room Based Capacity,North York,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,88.57142857142857
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,97.67441860465115
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,99.15966386554622
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-07,Men,Bed Based Capacity,Toronto,92
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,80
+2024-01-07,Men,Room Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-07,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,North York,100
+2024-01-07,Women,Bed Based Capacity,North York,100
+2024-01-07,Men,Bed Based Capacity,North York,100
+2024-01-07,Women,Bed Based Capacity,North York,100
+2024-01-07,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-07,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,98.79518072289156
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-07,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-07,Youth,Bed Based Capacity,Toronto,80
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Room Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Room Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Room Based Capacity,North York,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Room Based Capacity,Scarborough,100
+2024-01-07,Men,Bed Based Capacity,Toronto,99.62121212121212
+2024-01-07,Men,Room Based Capacity,North York,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Men,Bed Based Capacity,Toronto,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,NA,100
+2024-01-07,Families,Room Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Women,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Toronto,100
+2024-01-07,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-07,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-07,Youth,Bed Based Capacity,Scarborough,100
+2024-01-07,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-08,Families,Room Based Capacity,Toronto,99.33333333333333
+2024-01-08,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,87.5
+2024-01-08,Families,Room Based Capacity,North York,100
+2024-01-08,Families,Room Based Capacity,North York,100
+2024-01-08,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-08,Men,Room Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,69.23076923076923
+2024-01-08,Families,Room Based Capacity,Toronto,100
+2024-01-08,Families,Room Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Room Based Capacity,North York,100
+2024-01-08,Mixed Adult,Room Based Capacity,North York,98.78048780487805
+2024-01-08,Mixed Adult,Room Based Capacity,North York,100
+2024-01-08,Mixed Adult,Room Based Capacity,North York,100
+2024-01-08,Men,Bed Based Capacity,Toronto,66.66666666666666
+2024-01-08,Women,Room Based Capacity,Scarborough,100
+2024-01-08,Families,Room Based Capacity,Toronto,100
+2024-01-08,Families,Room Based Capacity,Toronto,100
+2024-01-08,Families,Room Based Capacity,Toronto,94.73684210526315
+2024-01-08,Men,Bed Based Capacity,Toronto,94.11764705882352
+2024-01-08,Mixed Adult,Room Based Capacity,Vaughan,92.7536231884058
+2024-01-08,Men,Bed Based Capacity,Toronto,93.75
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Families,Room Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,79.16666666666666
+2024-01-08,Mixed Adult,Room Based Capacity,NA,100
+2024-01-08,Mixed Adult,Room Based Capacity,NA,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,94.44444444444444
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-08,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-08,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,98
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Room Based Capacity,Scarborough,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,92
+2024-01-08,Women,Bed Based Capacity,Toronto,98.07692307692307
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Room Based Capacity,North York,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,99.16666666666667
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-08,Men,Bed Based Capacity,Toronto,96
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,80
+2024-01-08,Men,Room Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-08,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,North York,100
+2024-01-08,Women,Bed Based Capacity,North York,100
+2024-01-08,Men,Bed Based Capacity,North York,100
+2024-01-08,Women,Bed Based Capacity,North York,100
+2024-01-08,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-08,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,97.91666666666666
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,82.35294117647058
+2024-01-08,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-08,Youth,Bed Based Capacity,Toronto,80
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Room Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Room Based Capacity,Toronto,100
+2024-01-08,Families,Room Based Capacity,Toronto,98.7012987012987
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Room Based Capacity,North York,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Room Based Capacity,Scarborough,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Room Based Capacity,North York,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Men,Bed Based Capacity,Toronto,100
+2024-01-08,Families,Room Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,NA,100
+2024-01-08,Families,Room Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Women,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Toronto,100
+2024-01-08,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-08,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-08,Youth,Bed Based Capacity,Scarborough,100
+2024-01-08,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,87.5
+2024-01-09,Families,Room Based Capacity,North York,100
+2024-01-09,Families,Room Based Capacity,North York,99.37888198757764
+2024-01-09,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-09,Men,Room Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,94.73684210526315
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Room Based Capacity,North York,100
+2024-01-09,Mixed Adult,Room Based Capacity,North York,98.76543209876543
+2024-01-09,Mixed Adult,Room Based Capacity,North York,100
+2024-01-09,Mixed Adult,Room Based Capacity,North York,100
+2024-01-09,Men,Bed Based Capacity,Toronto,66.66666666666666
+2024-01-09,Women,Room Based Capacity,Scarborough,100
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Families,Room Based Capacity,Toronto,95
+2024-01-09,Men,Bed Based Capacity,Toronto,95.58823529411765
+2024-01-09,Mixed Adult,Room Based Capacity,Vaughan,91.30434782608695
+2024-01-09,Men,Bed Based Capacity,Toronto,93.75
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,97.91666666666666
+2024-01-09,Mixed Adult,Room Based Capacity,NA,100
+2024-01-09,Mixed Adult,Room Based Capacity,NA,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,98.50746268656717
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,99.04761904761905
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-09,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-09,Women,Bed Based Capacity,Toronto,98.86363636363636
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-09,Mixed Adult,Room Based Capacity,Toronto,97.59036144578313
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,52.5
+2024-01-09,Youth,Bed Based Capacity,Toronto,98
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Room Based Capacity,Scarborough,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-09,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-09,Women,Bed Based Capacity,Toronto,92
+2024-01-09,Women,Bed Based Capacity,Toronto,94.23076923076923
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Room Based Capacity,North York,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,91.42857142857143
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,98.33333333333333
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,94.16666666666667
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-09,Men,Bed Based Capacity,Toronto,96
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,80
+2024-01-09,Men,Room Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-09,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,North York,100
+2024-01-09,Women,Bed Based Capacity,North York,100
+2024-01-09,Men,Bed Based Capacity,North York,100
+2024-01-09,Women,Bed Based Capacity,North York,100
+2024-01-09,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-09,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,82.35294117647058
+2024-01-09,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-09,Youth,Bed Based Capacity,Toronto,80
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,98.61111111111111
+2024-01-09,Men,Room Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Room Based Capacity,Toronto,100
+2024-01-09,Families,Room Based Capacity,Toronto,98.7012987012987
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-09,Women,Bed Based Capacity,Toronto,98.82352941176471
+2024-01-09,Women,Room Based Capacity,North York,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Room Based Capacity,Scarborough,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Room Based Capacity,North York,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Men,Bed Based Capacity,Toronto,100
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,NA,100
+2024-01-09,Families,Room Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Women,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Toronto,100
+2024-01-09,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-09,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-09,Youth,Bed Based Capacity,Scarborough,100
+2024-01-09,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,North York,100
+2024-01-10,Families,Room Based Capacity,North York,100
+2024-01-10,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-10,Men,Room Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Room Based Capacity,North York,100
+2024-01-10,Mixed Adult,Room Based Capacity,North York,97.5
+2024-01-10,Mixed Adult,Room Based Capacity,North York,100
+2024-01-10,Mixed Adult,Room Based Capacity,North York,100
+2024-01-10,Men,Bed Based Capacity,Toronto,77.77777777777779
+2024-01-10,Women,Room Based Capacity,Scarborough,100
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,92.64705882352942
+2024-01-10,Mixed Adult,Room Based Capacity,Vaughan,91.30434782608695
+2024-01-10,Men,Bed Based Capacity,Toronto,97.91666666666666
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Room Based Capacity,NA,100
+2024-01-10,Mixed Adult,Room Based Capacity,NA,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,97.05882352941177
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,88.88888888888889
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-10,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-10,Women,Bed Based Capacity,Toronto,98.85057471264368
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-10,Mixed Adult,Room Based Capacity,Toronto,96.42857142857143
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,92.5
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Room Based Capacity,Scarborough,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-10,Women,Bed Based Capacity,Toronto,94.5945945945946
+2024-01-10,Women,Bed Based Capacity,Toronto,92
+2024-01-10,Women,Bed Based Capacity,Toronto,98.07692307692307
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Room Based Capacity,North York,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,95
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,99.16666666666667
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-10,Men,Bed Based Capacity,Toronto,96
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,80
+2024-01-10,Men,Room Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-10,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,North York,100
+2024-01-10,Women,Bed Based Capacity,North York,100
+2024-01-10,Men,Bed Based Capacity,North York,100
+2024-01-10,Women,Bed Based Capacity,North York,50
+2024-01-10,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-10,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,76.47058823529412
+2024-01-10,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-10,Youth,Bed Based Capacity,Toronto,80
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Room Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Room Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,98.7012987012987
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Room Based Capacity,North York,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Room Based Capacity,Scarborough,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Room Based Capacity,North York,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Men,Bed Based Capacity,Toronto,100
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,NA,91.66666666666666
+2024-01-10,Families,Room Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Women,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Toronto,100
+2024-01-10,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-10,Youth,Bed Based Capacity,Etobicoke,95
+2024-01-10,Youth,Bed Based Capacity,Scarborough,100
+2024-01-10,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,North York,100
+2024-01-11,Families,Room Based Capacity,North York,100
+2024-01-11,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-11,Men,Room Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,98.4375
+2024-01-11,Mixed Adult,Room Based Capacity,North York,100
+2024-01-11,Mixed Adult,Room Based Capacity,North York,98.75
+2024-01-11,Mixed Adult,Room Based Capacity,North York,100
+2024-01-11,Mixed Adult,Room Based Capacity,North York,100
+2024-01-11,Men,Bed Based Capacity,Toronto,72.22222222222221
+2024-01-11,Women,Room Based Capacity,Scarborough,100
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,92.64705882352942
+2024-01-11,Mixed Adult,Room Based Capacity,Vaughan,91.30434782608695
+2024-01-11,Men,Bed Based Capacity,Toronto,97.91666666666666
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Room Based Capacity,NA,100
+2024-01-11,Mixed Adult,Room Based Capacity,NA,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,98.52941176470588
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,88.88888888888889
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,91.42857142857143
+2024-01-11,Mixed Adult,Room Based Capacity,Toronto,95.38461538461539
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,93.33333333333333
+2024-01-11,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-11,Mixed Adult,Room Based Capacity,Toronto,96.42857142857143
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,95.65217391304348
+2024-01-11,Youth,Bed Based Capacity,Toronto,98
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Room Based Capacity,Scarborough,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-11,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-11,Women,Bed Based Capacity,Toronto,92
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Room Based Capacity,North York,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,94.20289855072464
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,98.33333333333333
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,97.14285714285714
+2024-01-11,Men,Bed Based Capacity,Toronto,80
+2024-01-11,Men,Room Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,98.63013698630137
+2024-01-11,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-11,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,North York,100
+2024-01-11,Women,Bed Based Capacity,North York,100
+2024-01-11,Men,Bed Based Capacity,North York,100
+2024-01-11,Women,Bed Based Capacity,North York,100
+2024-01-11,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-11,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,76.47058823529412
+2024-01-11,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-11,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Room Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Room Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,98.7012987012987
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Room Based Capacity,North York,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Room Based Capacity,Scarborough,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Room Based Capacity,North York,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Men,Bed Based Capacity,Toronto,100
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,NA,100
+2024-01-11,Families,Room Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Women,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Toronto,100
+2024-01-11,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-11,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-11,Youth,Bed Based Capacity,Scarborough,100
+2024-01-11,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,North York,100
+2024-01-12,Families,Room Based Capacity,North York,100
+2024-01-12,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-12,Men,Room Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Room Based Capacity,North York,100
+2024-01-12,Mixed Adult,Room Based Capacity,North York,100
+2024-01-12,Mixed Adult,Room Based Capacity,North York,100
+2024-01-12,Mixed Adult,Room Based Capacity,North York,100
+2024-01-12,Men,Bed Based Capacity,Toronto,72.22222222222221
+2024-01-12,Women,Room Based Capacity,Scarborough,99.02912621359224
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,92.64705882352942
+2024-01-12,Mixed Adult,Room Based Capacity,Vaughan,91.30434782608695
+2024-01-12,Men,Bed Based Capacity,Toronto,97.91666666666666
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Room Based Capacity,NA,100
+2024-01-12,Mixed Adult,Room Based Capacity,NA,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,98.52941176470588
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,88.88888888888889
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,91.42857142857143
+2024-01-12,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,98.71794871794873
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-12,Mixed Adult,Room Based Capacity,Toronto,98.78048780487805
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,93.47826086956522
+2024-01-12,Youth,Bed Based Capacity,Toronto,98
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Room Based Capacity,Scarborough,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,92
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Room Based Capacity,North York,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,92.7536231884058
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,99.16666666666667
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-12,Men,Bed Based Capacity,Toronto,96
+2024-01-12,Men,Bed Based Capacity,Toronto,97.14285714285714
+2024-01-12,Men,Bed Based Capacity,Toronto,80
+2024-01-12,Men,Room Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-12,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,North York,100
+2024-01-12,Women,Bed Based Capacity,North York,100
+2024-01-12,Men,Bed Based Capacity,North York,50
+2024-01-12,Women,Bed Based Capacity,North York,100
+2024-01-12,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-12,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-12,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-12,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Room Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Room Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Room Based Capacity,North York,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Room Based Capacity,Scarborough,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Room Based Capacity,North York,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Men,Bed Based Capacity,Toronto,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,NA,100
+2024-01-12,Families,Room Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Women,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Toronto,100
+2024-01-12,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-12,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-12,Youth,Bed Based Capacity,Scarborough,100
+2024-01-12,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,North York,100
+2024-01-13,Families,Room Based Capacity,North York,100
+2024-01-13,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-13,Men,Room Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Room Based Capacity,North York,100
+2024-01-13,Mixed Adult,Room Based Capacity,North York,100
+2024-01-13,Mixed Adult,Room Based Capacity,North York,100
+2024-01-13,Mixed Adult,Room Based Capacity,North York,100
+2024-01-13,Men,Bed Based Capacity,Toronto,77.77777777777779
+2024-01-13,Women,Room Based Capacity,Scarborough,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,94.11764705882352
+2024-01-13,Mixed Adult,Room Based Capacity,Vaughan,91.30434782608695
+2024-01-13,Men,Bed Based Capacity,Toronto,97.91666666666666
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Room Based Capacity,NA,100
+2024-01-13,Mixed Adult,Room Based Capacity,NA,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,88.88888888888889
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-13,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-13,Mixed Adult,Room Based Capacity,Toronto,98.78048780487805
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,97.82608695652173
+2024-01-13,Youth,Bed Based Capacity,Toronto,98
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Room Based Capacity,Scarborough,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,92
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Room Based Capacity,North York,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,91.30434782608695
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-13,Men,Bed Based Capacity,Toronto,96
+2024-01-13,Men,Bed Based Capacity,Toronto,97.14285714285714
+2024-01-13,Men,Bed Based Capacity,Toronto,80
+2024-01-13,Men,Room Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-13,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,North York,100
+2024-01-13,Women,Bed Based Capacity,North York,100
+2024-01-13,Men,Bed Based Capacity,North York,100
+2024-01-13,Women,Bed Based Capacity,North York,100
+2024-01-13,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-13,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-13,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-13,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Room Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Room Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Room Based Capacity,North York,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Room Based Capacity,Scarborough,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Room Based Capacity,North York,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Men,Bed Based Capacity,Toronto,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,NA,100
+2024-01-13,Families,Room Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Women,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Toronto,100
+2024-01-13,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-13,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-13,Youth,Bed Based Capacity,Scarborough,100
+2024-01-13,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-14,Families,Room Based Capacity,Toronto,99.33333333333333
+2024-01-14,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,North York,100
+2024-01-14,Families,Room Based Capacity,North York,100
+2024-01-14,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-14,Men,Room Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Room Based Capacity,North York,100
+2024-01-14,Mixed Adult,Room Based Capacity,North York,100
+2024-01-14,Mixed Adult,Room Based Capacity,North York,100
+2024-01-14,Mixed Adult,Room Based Capacity,North York,100
+2024-01-14,Men,Bed Based Capacity,Toronto,77.77777777777779
+2024-01-14,Women,Room Based Capacity,Scarborough,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,95.58823529411765
+2024-01-14,Mixed Adult,Room Based Capacity,Vaughan,91.30434782608695
+2024-01-14,Men,Bed Based Capacity,Toronto,95.83333333333334
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Room Based Capacity,NA,100
+2024-01-14,Mixed Adult,Room Based Capacity,NA,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-14,Mixed Adult,Room Based Capacity,Toronto,92.3076923076923
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-14,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-14,Mixed Adult,Room Based Capacity,Toronto,98.78048780487805
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,97.82608695652173
+2024-01-14,Youth,Bed Based Capacity,Toronto,98
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Room Based Capacity,Scarborough,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,92
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Room Based Capacity,North York,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,85.5072463768116
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,98.52941176470588
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-14,Men,Bed Based Capacity,Toronto,96
+2024-01-14,Men,Bed Based Capacity,Toronto,97.14285714285714
+2024-01-14,Men,Bed Based Capacity,Toronto,80
+2024-01-14,Men,Room Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-14,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,North York,100
+2024-01-14,Women,Bed Based Capacity,North York,100
+2024-01-14,Men,Bed Based Capacity,North York,100
+2024-01-14,Women,Bed Based Capacity,North York,100
+2024-01-14,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-14,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-14,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-14,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Room Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Room Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Room Based Capacity,North York,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Room Based Capacity,Scarborough,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Room Based Capacity,North York,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Men,Bed Based Capacity,Toronto,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,NA,100
+2024-01-14,Families,Room Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Women,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Toronto,100
+2024-01-14,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-14,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-14,Youth,Bed Based Capacity,Scarborough,100
+2024-01-14,Youth,Bed Based Capacity,Scarborough,97.5609756097561
+2024-01-15,Families,Room Based Capacity,Toronto,99.33333333333333
+2024-01-15,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,North York,100
+2024-01-15,Families,Room Based Capacity,North York,100
+2024-01-15,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-15,Men,Room Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,98.4375
+2024-01-15,Mixed Adult,Room Based Capacity,North York,100
+2024-01-15,Mixed Adult,Room Based Capacity,North York,100
+2024-01-15,Mixed Adult,Room Based Capacity,North York,93.33333333333333
+2024-01-15,Mixed Adult,Room Based Capacity,North York,100
+2024-01-15,Men,Bed Based Capacity,Toronto,72.22222222222221
+2024-01-15,Women,Room Based Capacity,Scarborough,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,95.58823529411765
+2024-01-15,Mixed Adult,Room Based Capacity,Vaughan,96.82539682539682
+2024-01-15,Men,Bed Based Capacity,Toronto,93.75
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Room Based Capacity,NA,100
+2024-01-15,Mixed Adult,Room Based Capacity,NA,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,94.28571428571428
+2024-01-15,Mixed Adult,Room Based Capacity,Toronto,92.3076923076923
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,92
+2024-01-15,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-15,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,98
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Room Based Capacity,Scarborough,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,80
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,92
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Room Based Capacity,North York,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,91.30434782608695
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,97.14285714285714
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-15,Men,Bed Based Capacity,Toronto,92
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,80
+2024-01-15,Men,Room Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-15,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,North York,100
+2024-01-15,Women,Bed Based Capacity,North York,99.24242424242425
+2024-01-15,Men,Bed Based Capacity,North York,100
+2024-01-15,Women,Bed Based Capacity,North York,100
+2024-01-15,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-15,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,94.11764705882352
+2024-01-15,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-15,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Room Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Room Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Room Based Capacity,North York,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Room Based Capacity,Scarborough,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Room Based Capacity,North York,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Men,Bed Based Capacity,Toronto,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,NA,100
+2024-01-15,Families,Room Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Women,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Toronto,100
+2024-01-15,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-15,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-15,Youth,Bed Based Capacity,Scarborough,100
+2024-01-15,Youth,Bed Based Capacity,Scarborough,100
+2024-01-16,Families,Room Based Capacity,Toronto,99.32432432432432
+2024-01-16,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,North York,100
+2024-01-16,Families,Room Based Capacity,North York,100
+2024-01-16,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-16,Men,Room Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,96.66666666666667
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,95.65217391304348
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Room Based Capacity,North York,100
+2024-01-16,Mixed Adult,Room Based Capacity,North York,98.76543209876543
+2024-01-16,Mixed Adult,Room Based Capacity,North York,100
+2024-01-16,Mixed Adult,Room Based Capacity,North York,100
+2024-01-16,Men,Bed Based Capacity,Toronto,72.22222222222221
+2024-01-16,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-16,Women,Room Based Capacity,Scarborough,100
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,97.05882352941177
+2024-01-16,Mixed Adult,Room Based Capacity,Vaughan,96.82539682539682
+2024-01-16,Men,Bed Based Capacity,Toronto,93.75
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Room Based Capacity,NA,100
+2024-01-16,Mixed Adult,Room Based Capacity,NA,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,98.52941176470588
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,94.44444444444444
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,88.57142857142857
+2024-01-16,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-16,Women,Bed Based Capacity,Toronto,98.86363636363636
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,96.42857142857143
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,98
+2024-01-16,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-16,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,97.82608695652173
+2024-01-16,Youth,Bed Based Capacity,Toronto,98
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Room Based Capacity,Scarborough,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,92
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Room Based Capacity,North York,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,91.30434782608695
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,94.63087248322147
+2024-01-16,Youth,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-16,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-16,Men,Bed Based Capacity,Toronto,92
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,80
+2024-01-16,Men,Room Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,98.1981981981982
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-16,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,North York,100
+2024-01-16,Women,Bed Based Capacity,North York,100
+2024-01-16,Men,Bed Based Capacity,North York,100
+2024-01-16,Women,Bed Based Capacity,North York,100
+2024-01-16,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-16,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,94.11764705882352
+2024-01-16,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-16,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Room Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Room Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,Toronto,98.7012987012987
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Room Based Capacity,North York,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Room Based Capacity,Scarborough,100
+2024-01-16,Men,Bed Based Capacity,Toronto,99.62121212121212
+2024-01-16,Men,Room Based Capacity,North York,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Men,Bed Based Capacity,Toronto,100
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,NA,100
+2024-01-16,Families,Room Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Women,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Toronto,100
+2024-01-16,Youth,Bed Based Capacity,Etobicoke,96.96969696969697
+2024-01-16,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-16,Youth,Bed Based Capacity,Scarborough,100
+2024-01-16,Youth,Bed Based Capacity,Scarborough,100
+2024-01-17,Families,Room Based Capacity,Toronto,99.32885906040269
+2024-01-17,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,87.5
+2024-01-17,Families,Room Based Capacity,North York,100
+2024-01-17,Families,Room Based Capacity,North York,100
+2024-01-17,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-17,Men,Room Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Room Based Capacity,North York,100
+2024-01-17,Mixed Adult,Room Based Capacity,North York,100
+2024-01-17,Mixed Adult,Room Based Capacity,North York,100
+2024-01-17,Mixed Adult,Room Based Capacity,North York,100
+2024-01-17,Men,Bed Based Capacity,Toronto,77.77777777777779
+2024-01-17,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-17,Women,Room Based Capacity,Scarborough,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,97.05882352941177
+2024-01-17,Mixed Adult,Room Based Capacity,Vaughan,96.82539682539682
+2024-01-17,Men,Bed Based Capacity,Toronto,93.75
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Room Based Capacity,NA,100
+2024-01-17,Mixed Adult,Room Based Capacity,NA,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,98.9247311827957
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,94.44444444444444
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,98.11320754716981
+2024-01-17,Men,Bed Based Capacity,Toronto,97.16981132075472
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,88.57142857142857
+2024-01-17,Mixed Adult,Room Based Capacity,Toronto,90.76923076923077
+2024-01-17,Women,Bed Based Capacity,Toronto,98.86363636363636
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-17,Mixed Adult,Room Based Capacity,Toronto,97.53086419753086
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,95.65217391304348
+2024-01-17,Youth,Bed Based Capacity,Toronto,92
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Room Based Capacity,Scarborough,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-17,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-17,Women,Bed Based Capacity,Toronto,92
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Room Based Capacity,North York,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,92.7536231884058
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,98.33333333333333
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,98
+2024-01-17,Youth,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-17,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-17,Men,Bed Based Capacity,Toronto,92
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,80
+2024-01-17,Men,Room Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,98.21428571428571
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-17,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,North York,100
+2024-01-17,Women,Bed Based Capacity,North York,100
+2024-01-17,Men,Bed Based Capacity,North York,100
+2024-01-17,Women,Bed Based Capacity,North York,100
+2024-01-17,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-17,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,94.11764705882352
+2024-01-17,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-17,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Room Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Room Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Room Based Capacity,North York,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Room Based Capacity,Scarborough,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Room Based Capacity,North York,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Men,Bed Based Capacity,Toronto,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,NA,100
+2024-01-17,Families,Room Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,97.5
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Women,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Toronto,100
+2024-01-17,Youth,Bed Based Capacity,Etobicoke,93.93939393939394
+2024-01-17,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-17,Youth,Bed Based Capacity,Scarborough,100
+2024-01-17,Youth,Bed Based Capacity,Scarborough,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,87.5
+2024-01-18,Families,Room Based Capacity,North York,100
+2024-01-18,Families,Room Based Capacity,North York,100
+2024-01-18,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-18,Men,Room Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,95.65217391304348
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Room Based Capacity,North York,100
+2024-01-18,Mixed Adult,Room Based Capacity,North York,100
+2024-01-18,Mixed Adult,Room Based Capacity,North York,100
+2024-01-18,Mixed Adult,Room Based Capacity,North York,100
+2024-01-18,Men,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-18,Mixed Adult,Bed Based Capacity,NA,90
+2024-01-18,Women,Room Based Capacity,Scarborough,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,97.05882352941177
+2024-01-18,Mixed Adult,Room Based Capacity,Vaughan,96.82539682539682
+2024-01-18,Men,Bed Based Capacity,Toronto,93.75
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Room Based Capacity,NA,100
+2024-01-18,Mixed Adult,Room Based Capacity,NA,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,94.44444444444444
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,91.42857142857143
+2024-01-18,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,50
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-18,Mixed Adult,Room Based Capacity,Toronto,97.53086419753086
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,97.82608695652173
+2024-01-18,Youth,Bed Based Capacity,Toronto,94
+2024-01-18,Youth,Bed Based Capacity,Toronto,95
+2024-01-18,Youth,Room Based Capacity,Scarborough,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-18,Women,Bed Based Capacity,Toronto,97.2972972972973
+2024-01-18,Women,Bed Based Capacity,Toronto,92
+2024-01-18,Women,Bed Based Capacity,Toronto,98.07692307692307
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Room Based Capacity,North York,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,94.11764705882352
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,98.33333333333333
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,96.66666666666667
+2024-01-18,Youth,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-18,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,80
+2024-01-18,Men,Room Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,98.21428571428571
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-18,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,North York,100
+2024-01-18,Women,Bed Based Capacity,North York,100
+2024-01-18,Men,Bed Based Capacity,North York,100
+2024-01-18,Women,Bed Based Capacity,North York,100
+2024-01-18,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-18,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-18,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-18,Youth,Bed Based Capacity,Toronto,73.33333333333333
+2024-01-18,Women,Bed Based Capacity,Toronto,93.75
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Room Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Room Based Capacity,Toronto,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Room Based Capacity,North York,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Room Based Capacity,Scarborough,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Room Based Capacity,North York,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Men,Bed Based Capacity,Toronto,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,NA,100
+2024-01-18,Families,Room Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Women,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Toronto,100
+2024-01-18,Youth,Bed Based Capacity,Etobicoke,90.9090909090909
+2024-01-18,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-18,Youth,Bed Based Capacity,Scarborough,100
+2024-01-18,Youth,Bed Based Capacity,Scarborough,100
+2024-01-19,Families,Room Based Capacity,Toronto,98.65771812080537
+2024-01-19,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,87.5
+2024-01-19,Families,Room Based Capacity,North York,100
+2024-01-19,Families,Room Based Capacity,North York,100
+2024-01-19,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-19,Men,Room Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Room Based Capacity,North York,100
+2024-01-19,Mixed Adult,Room Based Capacity,North York,98.75
+2024-01-19,Mixed Adult,Room Based Capacity,North York,100
+2024-01-19,Mixed Adult,Room Based Capacity,North York,100
+2024-01-19,Men,Bed Based Capacity,Toronto,88.88888888888889
+2024-01-19,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-19,Women,Room Based Capacity,Scarborough,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,97.05882352941177
+2024-01-19,Mixed Adult,Room Based Capacity,Vaughan,95.23809523809523
+2024-01-19,Men,Bed Based Capacity,Toronto,93.75
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Room Based Capacity,NA,100
+2024-01-19,Mixed Adult,Room Based Capacity,NA,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,94.44444444444444
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,88.57142857142857
+2024-01-19,Mixed Adult,Room Based Capacity,Toronto,93.84615384615384
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,93.33333333333333
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,98.71794871794873
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,99.33333333333333
+2024-01-19,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-19,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,98
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Room Based Capacity,Scarborough,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,96
+2024-01-19,Women,Bed Based Capacity,Toronto,98.07692307692307
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,98.55072463768117
+2024-01-19,Mixed Adult,Room Based Capacity,North York,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,94.11764705882352
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,95
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,99.33333333333333
+2024-01-19,Youth,Bed Based Capacity,Toronto,83.33333333333334
+2024-01-19,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,80
+2024-01-19,Men,Room Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Scarborough,98.87640449438202
+2024-01-19,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,North York,100
+2024-01-19,Women,Bed Based Capacity,North York,100
+2024-01-19,Men,Bed Based Capacity,North York,100
+2024-01-19,Women,Bed Based Capacity,North York,100
+2024-01-19,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-19,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-19,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-19,Youth,Bed Based Capacity,Toronto,66.66666666666666
+2024-01-19,Women,Bed Based Capacity,Toronto,87.5
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Room Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Room Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Room Based Capacity,North York,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Room Based Capacity,Scarborough,99.23664122137404
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Room Based Capacity,North York,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Men,Bed Based Capacity,Toronto,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,NA,100
+2024-01-19,Families,Room Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Women,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Toronto,100
+2024-01-19,Youth,Bed Based Capacity,Etobicoke,87.87878787878788
+2024-01-19,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-19,Youth,Bed Based Capacity,Scarborough,100
+2024-01-19,Youth,Bed Based Capacity,Scarborough,100
+2024-01-20,Families,Room Based Capacity,Toronto,98.65771812080537
+2024-01-20,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,87.5
+2024-01-20,Families,Room Based Capacity,North York,100
+2024-01-20,Families,Room Based Capacity,North York,100
+2024-01-20,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-20,Men,Room Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Room Based Capacity,North York,100
+2024-01-20,Mixed Adult,Room Based Capacity,North York,98.76543209876543
+2024-01-20,Mixed Adult,Room Based Capacity,North York,100
+2024-01-20,Mixed Adult,Room Based Capacity,North York,100
+2024-01-20,Men,Bed Based Capacity,Toronto,88.88888888888889
+2024-01-20,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-20,Women,Room Based Capacity,Scarborough,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,97.05882352941177
+2024-01-20,Mixed Adult,Room Based Capacity,Vaughan,95.23809523809523
+2024-01-20,Men,Bed Based Capacity,Toronto,93.75
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Room Based Capacity,NA,100
+2024-01-20,Mixed Adult,Room Based Capacity,NA,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,97.22222222222221
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,88.57142857142857
+2024-01-20,Mixed Adult,Room Based Capacity,Toronto,92.3076923076923
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-20,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,98
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Room Based Capacity,Scarborough,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,96
+2024-01-20,Women,Bed Based Capacity,Toronto,98.07692307692307
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Room Based Capacity,North York,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,91.17647058823529
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,99.33333333333333
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,80
+2024-01-20,Men,Room Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-20,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,North York,100
+2024-01-20,Women,Bed Based Capacity,North York,100
+2024-01-20,Men,Bed Based Capacity,North York,83.33333333333334
+2024-01-20,Women,Bed Based Capacity,North York,100
+2024-01-20,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-20,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-20,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-20,Youth,Bed Based Capacity,Toronto,66.66666666666666
+2024-01-20,Women,Bed Based Capacity,Toronto,87.5
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Room Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Room Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Room Based Capacity,North York,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Room Based Capacity,Scarborough,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Room Based Capacity,North York,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Men,Bed Based Capacity,Toronto,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,NA,100
+2024-01-20,Families,Room Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Women,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Toronto,100
+2024-01-20,Youth,Bed Based Capacity,Etobicoke,87.87878787878788
+2024-01-20,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-20,Youth,Bed Based Capacity,Scarborough,100
+2024-01-20,Youth,Bed Based Capacity,Scarborough,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,87.5
+2024-01-21,Families,Room Based Capacity,North York,100
+2024-01-21,Families,Room Based Capacity,North York,100
+2024-01-21,Mixed Adult,Room Based Capacity,Etobicoke,100
+2024-01-21,Men,Room Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Room Based Capacity,North York,100
+2024-01-21,Mixed Adult,Room Based Capacity,North York,98.76543209876543
+2024-01-21,Mixed Adult,Room Based Capacity,North York,100
+2024-01-21,Mixed Adult,Room Based Capacity,North York,100
+2024-01-21,Men,Bed Based Capacity,Toronto,88.88888888888889
+2024-01-21,Mixed Adult,Bed Based Capacity,NA,66.66666666666666
+2024-01-21,Women,Room Based Capacity,Scarborough,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,95.58823529411765
+2024-01-21,Mixed Adult,Room Based Capacity,Vaughan,96.82539682539682
+2024-01-21,Men,Bed Based Capacity,Toronto,93.75
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Room Based Capacity,NA,100
+2024-01-21,Mixed Adult,Room Based Capacity,NA,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,88.57142857142857
+2024-01-21,Mixed Adult,Room Based Capacity,Toronto,90.76923076923077
+2024-01-21,Women,Bed Based Capacity,Toronto,98.86363636363636
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,98.93617021276596
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-21,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,98
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Room Based Capacity,Scarborough,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,90
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,96
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Room Based Capacity,North York,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,91.30434782608695
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,97.33333333333334
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,96.15384615384616
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,80
+2024-01-21,Men,Room Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Scarborough,100
+2024-01-21,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,North York,100
+2024-01-21,Women,Bed Based Capacity,North York,100
+2024-01-21,Men,Bed Based Capacity,North York,100
+2024-01-21,Women,Bed Based Capacity,North York,100
+2024-01-21,Mixed Adult,Room Based Capacity,Scarborough,100
+2024-01-21,Mixed Adult,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,NA,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,88.23529411764706
+2024-01-21,Youth,Bed Based Capacity,Toronto,91.66666666666666
+2024-01-21,Youth,Bed Based Capacity,Toronto,66.66666666666666
+2024-01-21,Women,Bed Based Capacity,Toronto,93.75
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,98.61111111111111
+2024-01-21,Men,Room Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Room Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,92.5925925925926
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Room Based Capacity,North York,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Room Based Capacity,Scarborough,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Room Based Capacity,North York,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Men,Bed Based Capacity,Toronto,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Mixed Adult,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,NA,100
+2024-01-21,Families,Room Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Women,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Toronto,100
+2024-01-21,Youth,Bed Based Capacity,Etobicoke,87.87878787878788
+2024-01-21,Youth,Bed Based Capacity,Etobicoke,100
+2024-01-21,Youth,Bed Based Capacity,Scarborough,100
+2024-01-21,Youth,Bed Based Capacity,Scarborough,100

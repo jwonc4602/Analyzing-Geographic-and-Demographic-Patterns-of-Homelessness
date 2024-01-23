@@ -1,26 +1,36 @@
 #### Preamble ####
-# Purpose: Downloads and saves the data from [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
-# Date: 11 February 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
+# Purpose: Downloads, saves, and reads data from the OpenDataToronto portal
+# Author: Jiwon Choi
+# Date: 22 January 2024
+# Contact: jwon.choi@mail.utoronto.ca
 # License: MIT
-# Pre-requisites: [...UPDATE THIS...]
-# Any other information needed? [...UPDATE THIS...]
-
+# Pre-requisites: None
+# Data sets: https://open.toronto.ca/dataset/daily-shelter-overnight-service-occupancy-capacity/
 
 #### Workspace setup ####
 library(opendatatoronto)
 library(tidyverse)
-# [...UPDATE THIS...]
 
 #### Download data ####
-# [...ADD CODE HERE TO DOWNLOAD...]
+# Replace with the specific package ID for your dataset
+package_id <- "21c83b32-d5a8-4106-a54f-010dbe49f6f2"
 
+# Get the package
+package <- show_package(package_id)
+package
 
+# Get all resources for this package
+resources <- list_package_resources(package_id)
 
-#### Save data ####
-# [...UPDATE THIS...]
-# change the_raw_data to whatever name you assigned when you downloaded it.
-write_csv(the_raw_data, "inputs/data/raw_data.csv") 
+# Identify datastore resources; Toronto Open Data sets datastore resource format to CSV for non-geospatial
+datastore_resources <- filter(resources, tolower(format) %in% c('csv'))
 
-         
+# Load the first datastore resource as a sample
+data <- filter(datastore_resources, row_number() == 1) %>% get_resource()
+
+# Save data
+write_csv(raw_shelter_data, "inputs/data/raw_shelter_statistics.csv")  # Adjust the file path and name
+
+# Read in the DAILY SHELTER & OVERNIGHT SERVICE OCCUPANCY & CAPACITY statistics data set
+raw_shelter_data <- read_csv("inputs/data/raw_shelter_statistics.csv")
+
