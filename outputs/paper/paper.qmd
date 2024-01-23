@@ -6,8 +6,9 @@ author:
 thanks: "Code and data are available at: [https://github.com/jwonc4602/Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness](https://github.com/jwonc4602/Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness)."
 date: today
 date-format: long
-abstract: "This study examines the challenges faced by the homeless despite the presence of shelters, triggered by a recent incident of a homeless person succumbing to severe cold. It investigates geographic and demographic trends in homelessness, analyzing variations in shelter demand based on location and gender/age disparities. Utilizing data from the Shelter Support and Housing Administration division's Shelter Management Information System database, the research forecasts demand and provides critical insights: (1) geographic analysis identifies areas with the highest demand for shelter services, (2) demographic analysis uncovers gender and age-based disparities. These insights empower policymakers, shelter providers, and advocacy groups to allocate resources efficiently and proactively address homelessness challenges, ultimately preventing future hardships and tragedies."
+abstract: "This research investigates the difficulties encountered by the homeless, even with available shelters, spurred by a recent case of a homeless individual dying due to extreme cold. By conducting geographic and demographic assessments of shelter needs, using data from the Shelter Management Information System, it pinpoints areas with significant demand and uncovers disparities in shelter use based on gender and age. The results assist policymakers, shelter operators, and advocacy groups in effectively distributing resources and actively addressing homelessness issues."
 format: pdf
+toc: true
 number-sections: true
 bibliography: references.bib
 ---
@@ -16,6 +17,24 @@ bibliography: references.bib
 #| include: false
 #| warning: false
 #| message: false
+
+#### Workspace set-up ####
+
+## Load packages
+library(tidyverse)
+library(knitr)
+library(here)
+library(dplyr)
+library(ggplot2)
+library(readr)
+
+#read in cleaned data #
+cleaned_shelter_statistics <- read.csv(here::here("outputs/data/cleaned_shelter_statistics.csv"))
+show_col_types = FALSE
+
+#read in cleaned data #
+finalized_shelter_statistics <- read.csv(here::here("outputs/data/finalized_shelter_statistics.csv"))
+show_col_types = FALSE
 ```
 
 # Introduction
@@ -28,90 +47,130 @@ The remainder of this paper is structured as follows. @sec-data....
 
 ## Data Source
 
-The dataset at the core of this research is drawn from the Shelter Support and Housing Administration (SSHA) division's Shelter Management Information System (SMIS) database. This database serves as a comprehensive repository of daily records of active overnight shelter and allied services. It represents the most recent and extensive source of data available for analysis in the context of homelessness support services.
+This research is based on a dataset sourced from the Shelter Support and Housing Administration (SSHA) division's Shelter Management Information System (SMIS) database, which is accessible through the City of Toronto’s OpenDataToronto Library [@rOpenDataToronto]. The specific dataset employed is named 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData]. This database acts as a detailed collection of daily entries related to active overnight shelter and associated services. It is the latest and most comprehensive dataset available for analyzing homelessness support services.
 
 ## Data Collection
+In the process of selecting an appropriate data source for an in-depth analysis of current demographic and geographic trends within shelter services, I evaluated several datasets, including the 'Toronto Shelter System Flow data' [@ShelterSystemFlow] and the 'Daily Shelter Occupancy' [@DailyShelterOccupancy] datasets. However, I ultimately chose the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset for several compelling reasons:
 
-The data collection process is designed to provide a comprehensive and up-to-date view of shelter and overnight service programs. Key aspects of data collection include:
+1. While the 'Toronto Shelter System Flow' [@ShelterSystemFlow] data offers valuable insights into the flow of demography through the shelter system, it lacks comprehensive geographic information. This limitation significantly hinders the potential for a detailed analysis of geographic trends and patterns within the shelter system, an aspect critical to my research objectives.
 
-### Daily Updates
+2. The 'Daily Shelter Occupancy' [@DailyShelterOccupancy] dataset, although previously a pertinent source of information, has become less relevant due to its discontinuation. The most recent update for this dataset was recorded on March 10, 2022, rendering it outdated for current analysis purposes. In contrast, the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset provides the most recent and comprehensive data available, making it a more suitable choice for analyzing up-to-date trends and developments in shelter usage and capacity.
 
-The dataset encompasses daily updated information regarding shelter and overnight service programs. Data is collected and reported on a daily basis, ensuring that the information reflects the most current state of affairs in the shelter system.
+Consequently, the decision to utilize the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset was driven by its superior relevance, contemporaneity, and the inclusion of both demographic and geographic data, which are essential for a thorough and current analysis of shelter services.
 
-### Inclusion of Overnight Service Types
-
-One notable enhancement in the data collection process is the inclusion of various overnight service types. Previously, the dataset primarily focused on traditional shelter programs. However, the revised approach now encompasses all overnight service types for which occupancy data is tracked in the SMIS. This expansion allows for a more comprehensive analysis of the services available to homeless individuals.
-
-### Capacity Categorization
-
-Programs within the dataset are categorized based on their capacity type. This categorization classifies programs as either bed-based or room-based. Bed-based capacity is typically applicable to programs with communal sleeping areas, while room-based capacity is typically associated with family programs and hotel-based programs where individual sleeping rooms are provided. This classification ensures that capacity reporting accurately reflects the nature of the program, preventing over-reporting in room-based programs.
-
-### Dual Capacity Measures
-
-To better evaluate program occupancy rates, the dataset provides two measures of capacity. The first measure, known as funding capacity, reports the intended number of beds or rooms that a program is designed to provide. The second measure, referred to as actual capacity, reflects the number of beds or rooms in service and available for occupancy at the time of reporting. This dual measurement approach enhances the accuracy of assessing program occupancy rates.
-
-Overall, the data collection process is underpinned by a commitment to maintaining accurate and timely records of shelter and overnight service programs. By leveraging this dataset, we gain valuable insights into the dynamic landscape of homelessness, facilitating a more informed and data-driven approach to addressing the needs of homeless individuals.
-
-## Data Analysis
-
-# Model
-
-The goal of our modelling strategy is twofold. Firstly,...
-
-Here we briefly describe the Bayesian analysis model used to investigate... Background details and diagnostics are included in [Appendix -@sec-model-details].
-
-## Model set-up
-
-Define $y_i$ as the number of seconds that the plane remained aloft. Then $\beta_i$ is the wing width and $\gamma_i$ is the wing length, both measured in millimeters.
-
-```{=tex}
-\begin{align} 
-y_i|\mu_i, \sigma &\sim \mbox{Normal}(\mu_i, \sigma) \\
-\mu_i &= \alpha + \beta_i + \gamma_i\\
-\alpha &\sim \mbox{Normal}(0, 2.5) \\
-\beta &\sim \mbox{Normal}(0, 2.5) \\
-\gamma &\sim \mbox{Normal}(0, 2.5) \\
-\sigma &\sim \mbox{Exponential}(1)
-\end{align}
-```
-We run the model in R [@citeR] using the `rstanarm` package of @rstanarm. We use the default priors from `rstanarm`.
-
-### Model justification
-
-We expect a positive relationship between the size of the wings and time spent aloft. In particular...
-
-We can use maths by including latex between dollar signs, for instance $\theta$.
-
-# Results
-
-Our results are summarized in @tbl-modelresults.
+The methodology for gathering data is structured to ensure a detailed and current perspective of shelter and overnight service initiatives. The data was compiled and examined using the R statistical programming software [@r], supplemented by various tools such as `tidyverse` [@rTidyverse], `ggplot2` [@rGgplot2], `dplyr` [@rDplyr], `readr` [@rReadr], `tibble` [@rTibble], `janitor` [@rJanitor], `knitr` [@rknitr], and `here` [@rHere].
 
 ```{r}
-#| echo: false
-#| eval: true
-#| warning: false
 #| message: false
+#| echo: false
+#| label: tbl-cleaned_shelter_statistics
+#| tbl-cap: Sample of Cleaned Shelter Statistics Data
 
-library(rstanarm)
-
-first_model <-
-  readRDS(file = here::here("outputs/models/first_model.rds"))
+head (finalized_shelter_statistics, 5) |>
+  kable(
+    col.names = c("occupancy_date", "sector", "capacity_type",	"location_city", "occupancy_rate"),
+  booktabs = TRUE
+  )
 ```
 
-```{r}
+## Trends in Shelter Occupancy Rates by Dates
+```{r fig.width = 15, fig.height = 8, fig.align = "center", fig.pos = 'h'}
+#| message: false
 #| echo: false
-#| eval: true
-#| label: tbl-modelresults
-#| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
-#| warning: false
+#| label: fig-average-occupancy-rate-by-date
+#| fig-cap: Average Occupancy Rate by Date
 
-modelsummary::modelsummary(
-  list(
-    "First model" = first_model
-  ),
-  statistic = "mad",
-  fmt = 2
-)
+# Assuming 'finalized_shelter_statistics.csv' is your file path
+occupancy_data <- finalized_shelter_statistics
+
+# Calculate the average occupancy rate by date
+average_occupancy_rates <- occupancy_data %>%
+  group_by(occupancy_date) %>%
+  summarise(average_occupancy_rate = sum(occupancy_rate, na.rm = TRUE) / n(), .groups = 'drop')
+
+# Print the results
+# print(average_occupancy_rates)
+
+ggplot(average_occupancy_rates, aes(x = occupancy_date, y = average_occupancy_rate, group = 1)) +
+  geom_line(color = "red") +
+  labs(title = "Average Occupancy Rate by Date",
+       x = "Date",
+       y = "Average Occupancy Rate") +
+  theme(
+    plot.title = element_text(size = 20, hjust = 0.5),          # Center and set size for plot title
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 17), # Set size for x-axis text
+    axis.text.y = element_text(hjust = 1, size = 17),            # Set size for y-axis text
+    axis.title.x = element_text(size = 20, hjust = 0.5),         # Center and set size for x-axis title
+    axis.title.y = element_text(size = 20, hjust = 0.5),         # Center and set size for y-axis title
+  )
+
+```
+The latest analysis of data regarding shelter occupancy shows a significant rising trend in average occupancy rates across a span of 21 days, starting from January 1st and ending on January 21st. While there were some daily variations in occupancy rates, the general trend observed was a consistent rise in the need for shelter services. This overarching pattern is further illustrated in Figure 1.
+
+- Starting Point (January 1st): The average occupancy rate on the first of January was 97.30062%. This figure represents a robust utilization of shelter resources, indicating a high demand right at the start of the year.
+
+- Intermediate Fluctuations: Throughout the first three weeks of January, there were instances of fluctuating occupancy rates. These fluctuations, however, did not significantly deviate from the overall upward trajectory. Some days witnessed a decrease in occupancy rates, which can be attributed to various transient factors such as weather conditions, temporary housing solutions, or individual decisions to seek alternative accommodations.
+
+- End Point (January 21st): By the 21st of January, the average occupancy rate had risen to 98.33322%. This incremental increase, while seemingly modest, is statistically significant and points to a growing demand for shelter services.
+
+
+## Capacity Types in Shelter Services
+```{r}
+#| message: false
+#| echo: false
+#| label: fig-number-of-capacity-type-by-user-group
+#| fig-cap: Number of Capacity Type by User Group
+#| 
+number_of_capacity_type_by_user_group <- finalized_shelter_statistics
+
+# Group the data by sector and capacity_type, and count the number of occurrences
+grouped_data <- number_of_capacity_type_by_user_group %>%
+  group_by(sector, capacity_type) %>%
+  summarise(count = n())
+
+# Convert factors to ensure proper ordering in the plot
+grouped_data$sector <- factor(grouped_data$sector, levels = unique(number_of_capacity_type_by_user_group$sector))
+grouped_data$capacity_type <- factor(grouped_data$capacity_type, levels = c("Bed Based Capacity", "Room Based Capacity"))
+
+# Generate the bar chart
+ggplot(grouped_data, aes(x = sector, y = count, fill = capacity_type)) +
+  geom_bar(stat = "identity", position = position_dodge(width = 0.7)) +
+  theme_minimal() +
+  labs(y = "Count", x = "User Group", fill = "Capacity Type") +
+  scale_fill_manual(values = c("Bed Based Capacity" = "green", "Room Based Capacity" = "orange")) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotate x labels for better readability
+
+```
+A focused analysis of the capacity types utilized in shelter services reveals distinct patterns in the allocation and utilization of resources, particularly when comparing bed-based and room-based capacities across different user groups.
+
+- Absence of Bed-Based Capacity for Families: A striking observation is the complete lack of bed-based capacity options for family groups. This suggests that the current shelter system does not offer bed-specific accommodations for families, possibly due to the unique needs and privacy concerns associated with family units. This gap in service provision indicates a potential area for development and improvement in catering to the needs of families seeking shelter.
+
+- Dominance of Bed-Based Capacity for Other User Groups: In contrast to the situation with families, other user groups predominantly utilize bed-based capacity in shelters. This trend is significant, indicating that for individuals and non-family groups, bed-based accommodations are the primary form of shelter provided. This form of capacity is likely favored due to its efficiency in maximizing space and accommodating a larger number of individuals within the shelter system.
+
+- Limited Use of Room-Based Capacity: The analysis also shows that room-based capacity, while available, is less commonly used than bed-based options for non-family groups. This could be due to various factors, including limited availability, higher maintenance costs, or specific shelter policies and user preferences.
+```{r}
+#| message: false
+#| echo: false
+#| label: fig-average-occupancy-rate-by-city
+#| fig-cap: Average Occupancy Rate by City
+#| 
+data <- finalized_shelter_statistics
+# Calculate the average occupancy rate by city
+average_occupancy_by_city <- data %>%
+  group_by(location_city) %>%
+  summarise(average_occupied_rate_by_city = mean(occupancy_rate))
+
+# Create a bar plot
+ggplot(average_occupancy_by_city, aes(x = location_city, y = average_occupied_rate_by_city)) +
+  geom_bar(stat = 'identity') +
+  theme_minimal() +
+  labs(title = 'Average Occupancy Rate by City',
+       x = 'City',
+       y = 'Average Occupancy Rate') +
+  ylim(0, max(average_occupancy_by_city$average_occupied_rate_by_city) + 10)
+
+# Note: Users should replace 'your_data.csv' with the actual path to their data file.
+
 ```
 
 # Discussion
@@ -122,56 +181,6 @@ If my paper were 10 pages, then should be be at least 2.5 pages. The discussion 
 
 ## Second discussion point
 
-## Third discussion point
-
-## Weaknesses and next steps
-
-Weaknesses and next steps should also be included.
-
-\newpage
-
-\appendix
-
-# Appendix {.unnumbered}
-
-# Additional data details
-
-# Model details {#sec-model-details}
-
-## Posterior predictive check
-
-In @fig-ppcheckandposteriorvsprior-1 we implement a posterior predictive check. This shows...
-
-In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. This shows...
-
-```{r}
-#| eval: true
-#| echo: false
-#| message: false
-#| warning: false
-
-```
-
-## Diagnostics
-
-@fig-stanareyouokay-1 is a trace plot. It shows... This suggests...
-
-@fig-stanareyouokay-2 is a Rhat plot. It shows... This suggests...
-
-```{r}
-#| echo: false
-#| eval: true
-#| message: false
-#| warning: false
-#| label: fig-stanareyouokay
-#| fig-cap: "Checking the convergence of the MCMC algorithm"
-#| fig-subcap: ["Trace plot", "Rhat plot"]
-#| layout-ncol: 2
-
-plot(first_model, "trace")
-
-plot(first_model, "rhat")
-```
 
 \newpage
 
