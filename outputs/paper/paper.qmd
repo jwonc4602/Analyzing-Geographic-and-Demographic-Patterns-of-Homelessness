@@ -16,30 +16,6 @@ bibliography: references.bib
 #| include: false
 #| warning: false
 #| message: false
-
-library(tidyverse)
-library(palmerpenguins)
-#| message: false
-#| echo: false
-
-#### Workspace set-up ####
-
-
-#read in cleaned data #
-cleaned_voter_statistics <- read.csv(here::here("inputs/data/cleaned_voter_statistics.csv"))
-show_col_types = FALSE
-
-#read in cleaned data #
-summarized_voter_statistics <- read.csv(here::here("inputs/data/summarized_voter_statistics.csv"))
-show_col_types = FALSE
-
-#read in cleaned data #
-summarized_voter_turnout <- read.csv(here::here("inputs/data/summarized_voter_turnout.csv"))
-show_col_types = FALSE
-
-#read in cleaned data #
-finalized_voter_statistics <- read.csv(here::here("inputs/data/finalized_voter_statistics.csv"))
-show_col_types = FALSE
 ```
 
 # Introduction
@@ -173,20 +149,7 @@ In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. Th
 #| echo: false
 #| message: false
 #| warning: false
-#| label: fig-ppcheckandposteriorvsprior
-#| layout-ncol: 2
-#| fig-cap: "Examining how the model fits, and is affected by, the data"
-#| fig-subcap: ["Posterior prediction check", "Comparing the posterior with the prior"]
 
-pp_check(first_model) +
-  theme_classic() +
-  theme(legend.position = "bottom")
-
-posterior_vs_prior(first_model) +
-  theme_minimal() +
-  scale_color_brewer(palette = "Set1") +
-  theme(legend.position = "bottom") +
-  coord_flip()
 ```
 
 ## Diagnostics
