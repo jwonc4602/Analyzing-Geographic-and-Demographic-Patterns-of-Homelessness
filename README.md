@@ -7,7 +7,7 @@ This paper addresses the complex issue of homelessness in Toronto by conducting 
 ## Contents
 
 - Data: the data used in this report is in the form of .csv files, which can be found under /inputs/data
-- Report: Both the .pdf and the .Rmd files of the report can be found under /outputs/paper
+- Report: Both the .pdf and the .qmd files of the report can be found under /outputs/paper
 - References: The references are stored in a .bib file, found under /outputs/paper
-- R Scripts: The R scripts, used for importing, cleaning and testing the data, can be found under /scripts
+- R Scripts: The R scripts, used for importing, cleaning, and testing the data, can be found under /scripts
 - Statement on LLM usage: No LLMs were used for any aspect of this work
