@@ -1,12 +1,12 @@
 ---
 title: "Analyzing Geographic and Demographic Patterns of Homelessness"
-subtitle: "Exploring Spatial Variations in Shelter Demand and Gender/Age-Based Disparities"
+subtitle: "Exploring Spatial Variations in Homeless Shelter Demand and Gender/Age-Based Disparities"
 author: 
   - Jiwon Choi
 thanks: "Code and data are available at: [https://github.com/jwonc4602/Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness](https://github.com/jwonc4602/Analyzing-Geographic-and-Demographic-Patterns-of-Homelessness)."
 date: today
 date-format: long
-abstract: "This research investigates the difficulties encountered by the homeless, even with available shelters, spurred by a recent case of a homeless individual dying due to extreme cold. By conducting geographic and demographic assessments of shelter needs, using data from the Shelter Management Information System, it pinpoints areas with significant demand and uncovers disparities in shelter use based on gender and age. The results assist policymakers, shelter operators, and advocacy groups in effectively distributing resources and actively addressing homelessness issues."
+abstract: "This research investigates the difficulties encountered by the homeless, even with available shelters, motivated by a recent case [@news1] of a homeless individual dying due to extreme cold. By conducting geographic and demographic patterns of shelter needs, using data from the Shelter Management Information System, it pinpoints areas with significant demand and uncovers trends in shelter use based on gender and age. The results assist policymakers, shelter operators, and advocacy groups in effectively distributing resources and actively addressing homelessness issues."
 format: pdf
 toc: true
 number-sections: true
@@ -38,89 +38,51 @@ show_col_types = FALSE
 ```
 
 # Introduction
+Homelessness in Toronto presents a challenging and dynamic issue, influenced by demographic shifts, economic factors, and policy decisions. Despite a robust shelter system, designed to protect the city's most vulnerable, instances of individuals not benefiting from these services and facing tragic outcomes still occur. This paper aims to analyze demographic and geographic trends in shelter systems to leverage them to resolve and support future homeless shelter issues in Toronto.
 
-You can and should cross-reference sections and sub-sections.
+This study is designed for an in-depth analysis of Toronto's shelter occupancy and capacity, utilizing data [@ShelterData] from the Shelter Management Information System (SMIS) database. While there are extensive papers on homelessness, a clear gap exists in contemporary, data-driven analyses that integrate both demographic and geographic dimensions within the context of urban shelter systems. Previous studies have often been limited either in data scope or timeframe, failing to provide a comprehensive picture that reflects the current realities of urban homelessness. This paper addresses this gap better by offering an updated view of the shelter system in Toronto. 
 
-The remainder of this paper is structured as follows. @sec-data....
+This study analyzes shelter occupancy trends using a dataset [@ShelterData] from the Shelter Management Information System (SMIS) [@ShelterData], employing R [@r] statistical tools like `tidyverse` [@rTidyverse] and `ggplot2` [@rGgplot2]. Findings reveal a heavy reliance on bed-based capacities mainly for non-family groups but not for families, alongside high occupancy rates across Toronto. These results are vital for guiding policymakers and social welfare organizations in enhancing shelter capacities and accessibility, and in reevaluating strategies to more effectively address urban homelessness.
+
+To dissect the demographic and geographic patterns within the shelter system in Toronto, spotlighting trends in service utilization and capacity, this paper is organized into the following sections: Data, and Discussion.  In the Data section, I discuss a detailed description of the data source and collection methods. It then progresses to an analysis of demographic and geographic patterns in shelter usage, followed by a discussion on the observed trends and their broader implications. The final sections of the discussion part critically evaluate the study's limitations and propose directions for future research.
 
 # Data {#sec-data}
 
 ## Data Source
 
-This research is based on a dataset sourced from the Shelter Support and Housing Administration (SSHA) division's Shelter Management Information System (SMIS) database, which is accessible through the City of Toronto’s OpenDataToronto Library [@rOpenDataToronto]. The specific dataset employed is named 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData]. This database acts as a detailed collection of daily entries related to active overnight shelter and associated services. It is the latest and most comprehensive dataset available for analyzing homelessness support services.
+This research is based on a dataset sourced from the Shelter Support and Housing Administration (SSHA) division's Shelter Management Information System (SMIS) database, which is accessible through the City of Toronto’s OpenDataToronto Library [@rOpenDataToronto]. The specific dataset employed is named  [@ShelterData]. This database acts as a detailed collection of daily entries related to active overnight shelter and associated services. It is the latest and most comprehensive dataset available for analyzing homelessness support services.
 
 ## Data Collection
-In the process of selecting an appropriate data source for an in-depth analysis of current demographic and geographic trends within shelter services, I evaluated several datasets, including the 'Toronto Shelter System Flow data' [@ShelterSystemFlow] and the 'Daily Shelter Occupancy' [@DailyShelterOccupancy] datasets. However, I ultimately chose the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset for several compelling reasons:
+In the process of selecting an appropriate data source for an in-depth analysis of current demographic and geographic trends within shelter services, several datasets were considered, including the 'Toronto Shelter System Flow data' [@ShelterSystemFlow] and the 'Daily Shelter Occupancy' [@DailyShelterOccupancy] datasets. However, the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset was ultimately chosen for the following reasons:
 
 1. While the 'Toronto Shelter System Flow' [@ShelterSystemFlow] data offers valuable insights into the flow of demography through the shelter system, it lacks comprehensive geographic information. This limitation significantly hinders the potential for a detailed analysis of geographic trends and patterns within the shelter system, an aspect critical to my research objectives.
 
-2. The 'Daily Shelter Occupancy' [@DailyShelterOccupancy] dataset, although previously a pertinent source of information, has become less relevant due to its discontinuation. The most recent update for this dataset was recorded on March 10, 2022, rendering it outdated for current analysis purposes. In contrast, the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset provides the most recent and comprehensive data available, making it a more suitable choice for analyzing up-to-date trends and developments in shelter usage and capacity.
+2. The 'Daily Shelter Occupancy' [@DailyShelterOccupancy] dataset, although previously a pertinent source of information, has become less relevant due to its discontinuation. The most recent update for this dataset was recorded on March 10, 2022, therefore it is outdated for current analysis purposes. In contrast, the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset provides the most recent and comprehensive data available, making it a more suitable choice for analyzing up-to-date trends and developments in shelter usage and capacity.
 
-Consequently, the decision to utilize the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset was driven by its superior relevance, contemporaneity, and the inclusion of both demographic and geographic data, which are essential for a thorough and current analysis of shelter services.
+Consequently, the decision to utilize the 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] dataset was driven by its superior relevance, up-to-date, and the inclusion of both demographic and geographic data, which are essential for a thorough and current analysis of shelter services.
 
-The methodology for gathering data is structured to ensure a detailed and current perspective of shelter and overnight service initiatives. The data was compiled and examined using the R statistical programming software [@r], supplemented by various tools such as `tidyverse` [@rTidyverse], `ggplot2` [@rGgplot2], `dplyr` [@rDplyr], `readr` [@rReadr], `tibble` [@rTibble], `janitor` [@rJanitor], `knitr` [@rknitr], and `here` [@rHere].
+The methodology for gathering data is structured to ensure a detailed and current perspective of shelter and overnight service initiatives. The data was compiled and examined using the R statistical programming software [@r], supplemented by various tools such as `tidyverse` [@rTidyverse], `ggplot2` [@rGgplot2], `dplyr` [@rDplyr], `readr` [@rReadr], `tibble` [@rTibble], `janitor` [@rJanitor], `knitr` [@rknitr], and `here` [@rHere] (see @tbl-cleaned-shelter-statistics).
 
 ```{r}
 #| message: false
 #| echo: false
-#| label: tbl-cleaned_shelter_statistics
+#| label: tbl-cleaned-shelter-statistics
 #| tbl-cap: Sample of Cleaned Shelter Statistics Data
 
 head (finalized_shelter_statistics, 5) |>
   kable(
-    col.names = c("occupancy_date", "sector", "capacity_type",	"location_city", "occupancy_rate"),
+    col.names = c("occupancy_date", "sector", "capacity_type",	"location_city", "occupancy_rate(%)"),
   booktabs = TRUE
   )
 ```
 
-## Trends in Shelter Occupancy Rates by Dates
-```{r fig.width = 15, fig.height = 8, fig.align = "center", fig.pos = 'h'}
-#| message: false
-#| echo: false
-#| label: fig-average-occupancy-rate-by-date
-#| fig-cap: Average Occupancy Rate by Date
-
-# Assuming 'finalized_shelter_statistics.csv' is your file path
-occupancy_data <- finalized_shelter_statistics
-
-# Calculate the average occupancy rate by date
-average_occupancy_rates <- occupancy_data %>%
-  group_by(occupancy_date) %>%
-  summarise(average_occupancy_rate = sum(occupancy_rate, na.rm = TRUE) / n(), .groups = 'drop')
-
-# Print the results
-# print(average_occupancy_rates)
-
-ggplot(average_occupancy_rates, aes(x = occupancy_date, y = average_occupancy_rate, group = 1)) +
-  geom_line(color = "red") +
-  labs(title = "Average Occupancy Rate by Date",
-       x = "Date",
-       y = "Average Occupancy Rate") +
-  theme(
-    plot.title = element_text(size = 20, hjust = 0.5),          # Center and set size for plot title
-    axis.text.x = element_text(angle = 45, hjust = 1, size = 17), # Set size for x-axis text
-    axis.text.y = element_text(hjust = 1, size = 17),            # Set size for y-axis text
-    axis.title.x = element_text(size = 20, hjust = 0.5),         # Center and set size for x-axis title
-    axis.title.y = element_text(size = 20, hjust = 0.5),         # Center and set size for y-axis title
-  )
-
-```
-The latest analysis of data regarding shelter occupancy shows a significant rising trend in average occupancy rates across a span of 21 days, starting from January 1st and ending on January 21st. While there were some daily variations in occupancy rates, the general trend observed was a consistent rise in the need for shelter services. This overarching pattern is further illustrated in Figure 1.
-
-- Starting Point (January 1st): The average occupancy rate on the first of January was 97.30062%. This figure represents a robust utilization of shelter resources, indicating a high demand right at the start of the year.
-
-- Intermediate Fluctuations: Throughout the first three weeks of January, there were instances of fluctuating occupancy rates. These fluctuations, however, did not significantly deviate from the overall upward trajectory. Some days witnessed a decrease in occupancy rates, which can be attributed to various transient factors such as weather conditions, temporary housing solutions, or individual decisions to seek alternative accommodations.
-
-- End Point (January 21st): By the 21st of January, the average occupancy rate had risen to 98.33322%. This incremental increase, while seemingly modest, is statistically significant and points to a growing demand for shelter services.
-
-
-## Capacity Types in Shelter Services
+## Demographic Patterns of Homelessness
 ```{r}
 #| message: false
 #| echo: false
 #| label: fig-number-of-capacity-type-by-user-group
 #| fig-cap: Number of Capacity Type by User Group
-#| 
+
 number_of_capacity_type_by_user_group <- finalized_shelter_statistics
 
 # Group the data by sector and capacity_type, and count the number of occurrences
@@ -141,46 +103,98 @@ ggplot(grouped_data, aes(x = sector, y = count, fill = capacity_type)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotate x labels for better readability
 
 ```
-A focused analysis of the capacity types utilized in shelter services reveals distinct patterns in the allocation and utilization of resources, particularly when comparing bed-based and room-based capacities across different user groups.
 
-- Absence of Bed-Based Capacity for Families: A striking observation is the complete lack of bed-based capacity options for family groups. This suggests that the current shelter system does not offer bed-specific accommodations for families, possibly due to the unique needs and privacy concerns associated with family units. This gap in service provision indicates a potential area for development and improvement in catering to the needs of families seeking shelter.
+A focused analysis of the capacity types utilized in shelter services reveals distinct patterns in the allocation and utilization of resources, particularly when comparing bed-based and room-based capacities across different user groups. Bed-based capacity is typically applicable for programs with common sleeping areas, while room-based capacity is measured at the room level where sleeping rooms are not shared by people from different households (see @fig-number-of-capacity-type-by-user-group). 
 
-- Dominance of Bed-Based Capacity for Other User Groups: In contrast to the situation with families, other user groups predominantly utilize bed-based capacity in shelters. This trend is significant, indicating that for individuals and non-family groups, bed-based accommodations are the primary form of shelter provided. This form of capacity is likely favored due to its efficiency in maximizing space and accommodating a larger number of individuals within the shelter system.
+A striking observation is the complete lack of bed-based capacity options for family group. This suggests that the current shelter system does not offer bed-specific accommodations for families, possibly due to the unique needs and privacy concerns associated with family units.
 
-- Limited Use of Room-Based Capacity: The analysis also shows that room-based capacity, while available, is less commonly used than bed-based options for non-family groups. This could be due to various factors, including limited availability, higher maintenance costs, or specific shelter policies and user preferences.
+In contrast to the situation with families, other user groups predominantly utilize bed-based capacity in shelters. This trend is significant, indicating that for individuals and non-family groups, bed-based accommodations are the primary form of shelter provided. This form of capacity is likely favored due to its efficiency in maximizing space and accommodating a larger number of individuals within the shelter system.
+
+## Geographic Patterns of Homelessness
 ```{r}
 #| message: false
 #| echo: false
 #| label: fig-average-occupancy-rate-by-city
 #| fig-cap: Average Occupancy Rate by City
-#| 
-data <- finalized_shelter_statistics
+
+# Assuming 'location_data' holds the dataset
+location_data <- finalized_shelter_statistics
+
 # Calculate the average occupancy rate by city
-average_occupancy_by_city <- data %>%
+average_occupancy_by_city <- location_data %>%
   group_by(location_city) %>%
   summarise(average_occupied_rate_by_city = mean(occupancy_rate))
 
-# Create a bar plot
+# Create a bar plot with numbers on bars
 ggplot(average_occupancy_by_city, aes(x = location_city, y = average_occupied_rate_by_city)) +
   geom_bar(stat = 'identity') +
+  geom_text(aes(label = round(average_occupied_rate_by_city, 1)), 
+            vjust = -0.5, # Adjust this to position the text above the bars
+            size = 3) + # Adjust text size as needed
   theme_minimal() +
   labs(title = 'Average Occupancy Rate by City',
        x = 'City',
-       y = 'Average Occupancy Rate') +
+       y = 'Average Occupancy Rate (%)') +
   ylim(0, max(average_occupancy_by_city$average_occupied_rate_by_city) + 10)
-
-# Note: Users should replace 'your_data.csv' with the actual path to their data file.
-
 ```
+
+Here are occupancy rates, rounded up at the first decimal place, across six categories: five cities—Etobicoke, North York, Scarborough, Toronto, Vaughan—and an unspecified category labeled "NA" (see @fig-average-occupancy-rate-by-city).
+
+The narrow range between the highest and lowest occupancy rates and such high rates could imply limited vacancies and potential competitiveness in occupancy for homeless people seeking accommodation. For policymakers, shelter operators, and advocacy groups, these figures might signal the need for increased shelter supply.
 
 # Discussion
 
-## First discussion point {#sec-first-point}
+## Trends in Shelter Occupancy Rates by Dates
+```{r fig.width = 15, fig.height = 8, fig.align = "center", fig.pos = 'h'}
+#| message: false
+#| echo: false
+#| label: fig-average-occupancy-rate-by-date
+#| fig-cap: Average Occupancy Rate by Date
 
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this.
+# Assuming 'finalized_shelter_statistics.csv' is your file path
+occupancy_data <- finalized_shelter_statistics
 
-## Second discussion point
+# Calculate the average occupancy rate by date
+average_occupancy_rates <- occupancy_data %>%
+  group_by(occupancy_date) %>%
+  summarise(average_occupancy_rate = sum(occupancy_rate, na.rm = TRUE) / n(), .groups = 'drop')
 
+ggplot(average_occupancy_rates, aes(x = occupancy_date, y = average_occupancy_rate, group = 1)) +
+  geom_line(color = "red") +
+  labs(title = "Average Occupancy Rate by Date",
+       x = "Date",
+       y = "Average Occupancy Rate (%)") +
+  theme(
+    plot.title = element_text(size = 20, hjust = 0.5),          # Center and set size for plot title
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 17), # Set size for x-axis text
+    axis.text.y = element_text(hjust = 1, size = 17),            # Set size for y-axis text
+    axis.title.x = element_text(size = 20, hjust = 0.5),         # Center and set size for x-axis title
+    axis.title.y = element_text(size = 20, hjust = 0.5),         # Center and set size for y-axis title
+  )
+
+```
+
+The latest analysis of shelter occupancy data reveals a marked upward trend in average occupancy rates, rounded up at the first decimal place, over 21 days from January 1st to January 21st in 2024 (see @fig-average-occupancy-rate-by-date). While daily fluctuations were observed, the general direction was a steady increase in the need for shelter services. However, to provide a more comprehensive understanding, several critical aspects need to be incorporated into the discussion:
+
+1. **Overall Rising Trend and Demographic Patterns**: The data shows an overall increase in occupancy rates. This trend aligns with the Demographic Patterns of Homelessness, suggesting a balanced need for both bed-based and room-based capacities in shelters. Notably, there's a pronounced requirement for bed-based capacity, particularly for family user groups. This insight is crucial for shelter resources to meet the specific needs of different homeless populations effectively.
+
+2. **Geographic Patterns of Homelessness and Occupancy Rate**: The occupancy rates across all listed cities are consistently high, indicating a widespread demand for shelter services (see @fig-average-occupancy-rate-by-city). This requires effective management of existing resources in these areas. Additionally, providing safe travel options to vacant shelters in other cities and access to education to go back to society for the homeless might be significant considerations. These services can play an important role in enhancing the quality of life for homeless individuals and families, and in some cases, may aid in reducing the incidence of homelessness.
+
+3. **Possible Issues**: Despite the high occupancy rates, none of the shelters reached or exceeded 100% capacity. This observation is contrasted with the visible presence of many homeless individuals on the streets. This contradiction indicates potential issues with accessibility or awareness of shelter services. To address this gap, shelter operators and advocacy groups need to intensify their efforts. This could involve improving outreach programs, enhancing the accessibility of shelters, and removing barriers that prevent homeless individuals from seeking shelter. By doing so, more individuals can be brought under the protection of shelter programs, thereby reducing the number of homeless people without adequate shelter.
+
+## Limitations and Next Steps
+
+### Limitations
+1. **Data Timeframe and Recency**: One of the primary limitations of this study is the timeframe of the data analyzed. The 'Daily Shelter & Overnight Service Occupancy & Capacity' [@ShelterData] data contains the period from January 1st to January 21st, 2024. While the data has been updated daily since 2024, this analysis does not account for any updates or changes that may have occurred beyond January 21st. This restriction could potentially lead to minor inaccuracies or the omission of recent developments that could impact the findings and their relevance to the current situation. Additionally, the absence of data before 2024 limits the ability to observe significant trends and changes over a longer historical period.
+
+2. **Scope of Data Variables**: The analysis currently focuses on general occupancy rates without considering specific variables that could offer more detailed insights. For instance, the inclusion of variables such as the program model of shelters, the type of overnight services provided, or the program area could potentially yield more detailed and informative results. These factors can significantly influence shelter occupancy rates and patterns, and their exclusion from the analysis may limit the depth and applicability of the conclusions drawn.
+
+### Next Steps
+1. **Incorporation of Recent Data**: To address the limitation of the study's timeframe, future analyses should incorporate the most recent data containing a wider timeframe available. This approach will ensure that the findings are up-to-date and reflect the current state of shelter occupancy. Regular updates to the analysis will also help in monitoring trends over time, providing a dynamic view of the homelessness situation.
+
+2. **Expanding Data Parameters**: Future studies should aim to include additional variables such as the program model, service type, and program area of shelters. This expansion will allow for a more comprehensive analysis, potentially uncovering patterns and trends that are not evident from occupancy rates alone. For example, understanding how different program models affect occupancy rates can inform more targeted and effective policy decisions and resource allocation.
+
+In conclusion, while this study provides important insights into shelter occupancy trends, its scope and the recency of data are somewhat limited. Future research efforts should aim to overcome these limitations by incorporating more comprehensive and up-to-date data, thereby enriching the understanding of homelessness and informing more effective responses to this pressing social issue.
 
 \newpage
 
