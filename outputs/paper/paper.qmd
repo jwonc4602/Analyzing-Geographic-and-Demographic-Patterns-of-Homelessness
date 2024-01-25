@@ -44,7 +44,7 @@ This study is designed for an in-depth analysis of Toronto's shelter occupancy a
 
 This study analyzes shelter occupancy trends using a dataset [@ShelterData] from the Shelter Management Information System (SMIS) [@ShelterData], employing R [@r] statistical tools like `tidyverse` [@rTidyverse] and `ggplot2` [@rGgplot2]. Findings reveal a heavy reliance on bed-based capacities mainly for non-family groups but not for families, alongside high occupancy rates across Toronto. These results are vital for guiding policymakers and social welfare organizations in enhancing shelter capacities and accessibility, and in reevaluating strategies to more effectively address urban homelessness.
 
-To dissect the demographic and geographic patterns within the shelter system in Toronto, spotlighting trends in service utilization and capacity, this paper is organized into the following sections: Data, and Discussion.  In the Data section, I discuss a detailed description of the data source and collection methods. It then progresses to an analysis of demographic and geographic patterns in shelter usage, followed by a discussion on the observed trends and their broader implications. The final sections of the discussion part critically evaluate the study's limitations and propose directions for future research.
+To dissect the demographic and geographic patterns within the shelter system in Toronto, spotlighting trends in service utilization and capacity, this paper is organized into the following sections: Data (@sec-data), and Discussion (@sec-discussion).  In the Data section, I discuss a detailed description of the data source and collection methods. It then progresses to an analysis of demographic and geographic patterns in shelter usage, followed by a discussion on the observed trends and their broader implications. The final sections of the discussion part critically evaluate the study's limitations and propose directions for future research.
 
 # Data {#sec-data}
 
@@ -142,7 +142,7 @@ Here are occupancy rates, rounded up at the first decimal place, across six cate
 
 The narrow range between the highest and lowest occupancy rates and such high rates could imply limited vacancies and potential competitiveness in occupancy for homeless people seeking accommodation. For policymakers, shelter operators, and advocacy groups, these figures might signal the need for increased shelter supply.
 
-# Discussion
+# Discussion {#sec-discussion}
 
 ## Trends in Shelter Occupancy Rates by Dates
 ```{r fig.width = 15, fig.height = 8, fig.align = "center", fig.pos = 'h'}
