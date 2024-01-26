@@ -1,4 +1,4 @@
-# Toronto Homeless Populations
+# Analyzing Geographic and Demographic Patterns of Homelessness in Toronto
 
 ## Overview of Paper
 
